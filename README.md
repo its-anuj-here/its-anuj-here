@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuj
 - 🌱 Currently learning DSA, Web development, Problem Solving.
-- 👀 Language I have worked on till now:  C, C++, JAVA, Python, HTML5, CSS, JavaScript, Bootstrap, NodeJs, PHP, Laravel PHP .
+- 👀 Language I have worked on till now:  C, C++, JAVA, Python, HTML5, CSS, JavaScript, Bootstrap, PHP, Laravel PHP, NodeJs, ExpressJS, Typescript .
 - 💞️ I’m looking to collaborate on projects for beginners...
 - 📫 How to reach me : https://www.linkedin.com/in/anuj-kumar-5b6978166
 
